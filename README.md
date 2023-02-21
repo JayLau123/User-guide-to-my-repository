@@ -6,4 +6,5 @@
 
 #### I wont't write so many formulas and equations in 'READ.md', instead, I prefer writing formula with LaTeX in jupyter notebook. You can download the files you need and find the LaTeX code of all the formulas in your own jupyter notebook!
 
+#### I'd like to share some useful learning materials in this repository such as popular publications, books, etc.
 
